@@ -52,7 +52,7 @@
 <!-- Replace REPO_NAME below with your actual game repository name -->
 <p align="center">
   <a href="https://github.com/ninfixestudio/lomboktravel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NinfixeStudio&repo=REPO_NAME&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninfixestudio&repo=lomboktravel&theme=radical&hide_border=true" />
   </a>
 </p>
 
