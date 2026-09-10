@@ -36,10 +36,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=NinfixeStudio&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinfixeStudio&layout=compact&theme=radical&hide_border=true" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NinfixeStudio&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -49,13 +49,14 @@
 
 ### 🎮 Featured Project
 
-<!-- Replace REPO_NAME below with your actual game repository name -->
 <p align="center">
-  <a href="https://github.com/NinfixeStudio/lomboktravel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NinfixeStudio&repo=lomboktravel&theme=radical&hide_border=true" />
+  <a href="https://github.com/NinfixeStudio/ninfixestudio.github.io">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=NinfixeStudio&repo=ninfixestudio.github.io&theme=radical&hide_border=true"
+      alt="NinfixeStudio Portfolio"
+    />
   </a>
 </p>
-
 ---
 
 ### 🌐 Connect with Me
